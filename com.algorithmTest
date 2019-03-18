@@ -1,0 +1,8 @@
+public class algorithm Test{
+  static{
+    System.out.println("Hello world");
+  }
+  public static void main(String[]arg0){
+  
+  }
+}
